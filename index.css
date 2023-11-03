@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+.bag {
+    background-image: url('https://resources.commlabindia.com/hubfs/webinars/corporate-training-with-ai-banner.jpg');
+    background-size: cover;
+margin-bottom:0px;
+padding:2px;
+    text-align:center;
+    
+}
+.dsanger{
+    background-image: url("https://resources.commlabindia.com/hubfs/webinars/corporate-training-with-ai-banner-1.jpg");
+        background-size: cover;
+    }
+.heading1{
+    color:white;
+    font-size :28px;
+    font-style: normal; 
+    font-weight :500;
+        
+
+}
+
+.white{
+   
+    height:auto;
+    max-width:100%;
+}
+.flud{
+  background-color: rgba(255, 255, 255, 0.753);
+
+}
+.blackground-container{
+    background-color:black;
+    text-align:center;
+    margin-top:0px;
+   
+}
+.hosts-color{
+    color:white;
+    font-size:18px;
+}
+.last-container{
+    background-image: url('https://resources.commlabindia.com/hubfs/webinars/corporate-training-with-ai-banner.jpg');
+        background-size: cover;
+        margin-top: 0px;
+        padding: 2px;
+        text-align: center;
+        width:100%;
+
+}
+.anchor{
+    color:white;
+    text-decoration: none;
+    color:14px;
+   
+}
+.footers{
+    padding-top:34px;
+}
+.anchortag{
+    padding-top:34px;
+}
+.footer-container{
+ background-size:cover;
+ height:30vh;
+  
+    background-color:black;
+}
+.some-container{
+    background-image: url("https://resources.commlabindia.com/hubfs/webinars/corporate-training-with-ai-grey-banner.jpg");
+        background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+        background-attachment: fixed;
+    
+    
+    
+
+}
+.Logo{
+    height:30vh;
+    width:30vw;
+}
+.hosts-coloru{
+  align-items: center;
+    color:white;
+    text-align: center;
+   
+    font-size:14px;
+    
+}
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 10% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    text-align: center;
+}
+
+.modal-content span {
+    display: block;
+    text-align: right;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.modal-content form label,
+.modal-content form input {
+    display: inline-block;
+    
+    margin: 10px;
+ 
+    text-align: center;
+    box-sizing: border-box;
+        
+    
+}
